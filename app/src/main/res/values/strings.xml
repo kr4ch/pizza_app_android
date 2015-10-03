@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">BLE Temperature</string>
+    <string name="versionNumber">Version 3.3</string>
+    <string name="title_activity_about">About</string>
+    
+    <string name="image_descr_logo_laird">Laird Logo</string>
+    <string name="disclaimer_text">Embedded Wireless Solutions from Laird Technologies include 
+        Wi-Fi®, BLuetooth® / Bluetooth Low Energy, and RAMP (Range-Amplified Multipoint) radio modules designed to provide secure, reliable connectivity for business critical mobile devices. 
+        Full details are available at www.lairdtech.com/wireless
+        \n\nThis application is for evaluation purposes only and no representation or warranty is given nor is any to be implied
+    </string>
+    <!-- connection, searching and disconnection with device -->
+    <string name="connect">Scan And Connect</string>
+    <string name="disconnect">Disconnect</string>
+    <string name="searching">Searching..</string>
+    <!-- buttons -->
+    <string name="btnSend">Send</string>
+    <string name="menuBtnAbout">About</string>
+    <string name="menuBtnClear">Clear</string>
+    <!-- labels -->
+    <string name="labelFileNameTv">File Name:</string>
+    <string name="labelSavedAsTv">Saved As:</string>
+    <string name="labelValidDeviceTv">VSP Service Found:</string>
+    <string name="labelStatusTv">Status:</string>
+    <string name="labelErrorsTv">Errors:</string>
+    <!-- status -->
+    <string name="valueStatusWaiting">Waiting</string>
+    <string name="valueStatusDownloading">Sending!!</string>
+    <string name="valueStatusSuccess">Success Sending</string>
+    <string name="valueStatusFailed">Failed Sending</string>
+
+    <string name="valueInitTemperature">--.-°C</string>
+    <string name="valueInitStatus"/>
+    <string name="valueInitZero" />
+</resources>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<selector xmlns:android="http://schemas.android.com/apk/res/android">
+    <item>
+        <shape>
+		    <solid
+		        android:color="#f0f0f0" />
+        </shape>
+	</item>
+</selector><!-- From: file:/home/tobias/Dropbox/Sensorprojekt_Bluetooth/Android_App/BLETemperature/app/src/main/res/drawable/laird_background.xml -->

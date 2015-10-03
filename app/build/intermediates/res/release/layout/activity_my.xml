@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/backLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    >
+    
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_weight="0.01"
+        android:gravity="center"
+        >
+        
+        <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="60dp"
+        tools:text="--.-°C"
+        android:text="@string/valueInitTemperature"
+        android:id="@+id/labTemperature"
+        android:textSize="70sp"
+        android:textStyle="bold" />
+        
+        <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/valueInitZero"
+        android:textSize="10sp"
+        tools:text=""
+        android:id="@+id/textView1"
+        android:textStyle="bold" />
+        
+        <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        tools:text="Connected"
+        android:text="@string/valueInitStatus"
+        android:textSize="30sp"
+        android:id="@+id/labStatus"
+        android:textStyle="bold" />
+        
+        <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/valueInitZero"
+        android:textSize="10sp"
+        tools:text=""
+        android:id="@+id/textView3"
+        android:textStyle="bold" />
+        
+    </LinearLayout>
+    
+    
+    <ImageButton
+    android:layout_width="wrap_content"
+    android:layout_height="wrap_content"
+    android:id="@+id/imageButton"
+    android:contentDescription="@string/valueInitZero"
+    android:layout_gravity="center_horizontal"
+    android:focusable="false"
+    android:layout_weight="1"/>
+    
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:layout_weight="1"
+        android:gravity="center">
+        
+        <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/valueInitZero"
+        android:textSize="20sp"
+        tools:text="(c) Jennifer AUBINAIS v3.1"
+        android:id="@+id/labCopyright"/>
+        
+        <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/valueInitZero"
+        tools:text="2977mV"
+        android:id="@+id/labCellVolt"
+        />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/valueInitZero"
+            tools:text=""
+            android:id="@+id/textView4"
+            />
+
+    </LinearLayout>
+    
+    
+</LinearLayout>
+<!-- From: file:/Users/jenniferaubinais/PROJETS/Thermometer/ANDROID/BLETemperature/app/src/main/res/layout/activity_my.xml -->

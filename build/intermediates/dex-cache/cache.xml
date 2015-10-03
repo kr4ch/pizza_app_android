@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/home/tobias/Android/Sdk/extras/android/m2repository/com/android/support/support-annotations/20.0.0/support-annotations-20.0.0.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="9d9013e9ff35fc3756411e62873c363c70c638fa">
+        <dex dex="/home/tobias/Dropbox/Sensorprojekt_Bluetooth/Android_App/BLETemperature/app/build/intermediates/pre-dexed/debug/support-annotations-20.0.0-65a16f5d75a85824e126f614f7975ea94552a54f.jar" />
+    </item>
+    <item
+        jar="/home/tobias/Dropbox/Sensorprojekt_Bluetooth/Android_App/BLETemperature/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/20.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="f21927d22fe31889ecce94dd697a2e75b137e0ef">
+        <dex dex="/home/tobias/Dropbox/Sensorprojekt_Bluetooth/Android_App/BLETemperature/app/build/intermediates/pre-dexed/debug/classes-916ceb16a75ab9c3b237d96eec3ca739348161c1.jar" />
+    </item>
+    <item
+        jar="/home/tobias/Dropbox/Sensorprojekt_Bluetooth/Android_App/BLETemperature/app/libs/commons-lang3-3.3.1.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="63de8a49b95145202032b00e964efb2b6c61ac79">
+        <dex dex="/home/tobias/Dropbox/Sensorprojekt_Bluetooth/Android_App/BLETemperature/app/build/intermediates/pre-dexed/debug/commons-lang3-3.3.1-56038865ee3e0c428da18818c4e564dea350ad52.jar" />
+    </item>
+    <item
+        jar="/home/tobias/Dropbox/Sensorprojekt_Bluetooth/Android_App/BLETemperature/app/build/intermediates/exploded-aar/com.android.support/support-v4/20.0.0/jars/classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="8694693636ab36910c8100ce527c258ff3ebece0">
+        <dex dex="/home/tobias/Dropbox/Sensorprojekt_Bluetooth/Android_App/BLETemperature/app/build/intermediates/pre-dexed/debug/classes-8307d99ae2c91c656f31b83e6901828d6f40d1dc.jar" />
+    </item>
+    <item
+        jar="/home/tobias/Dropbox/Sensorprojekt_Bluetooth/Android_App/BLETemperature/app/build/intermediates/exploded-aar/com.android.support/support-v4/20.0.0/jars/libs/internal_impl-20.0.0.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="e40b3078e3fbd353c9f44da8df25a8fc0078209d">
+        <dex dex="/home/tobias/Dropbox/Sensorprojekt_Bluetooth/Android_App/BLETemperature/app/build/intermediates/pre-dexed/debug/internal_impl-20.0.0-fb37c420568640126bed00d4776cdf9d0402de6f.jar" />
+    </item>
+
+</items>

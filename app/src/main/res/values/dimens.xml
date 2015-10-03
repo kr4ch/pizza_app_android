@@ -1,0 +1,3 @@
+<resources>
+    <dimen name="progressBar_minWidth">200dp</dimen>
+</resources>

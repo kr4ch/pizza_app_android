@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- From: file:/home/tobias/Dropbox/Sensorprojekt_Bluetooth/Android_App/BLETemperature/app/src/main/res/values-sw480dp/dimens.xml -->
+    <eat-comment/>
+    <dimen name="activity_horizontal_padding">10dp</dimen>
+    <dimen name="activity_vertical_padding">10dp</dimen>
+    <dimen name="btnConnect_textSize">30sp</dimen>
+    <dimen name="btnFileStopUloading_textSize">25sp</dimen>
+    <dimen name="btnFileStopUploading_marginTop">15dp</dimen>
+    <dimen name="btn_marginTop">15dp</dimen>
+    <dimen name="btn_textSize">25sp</dimen>
+    <dimen name="containerProgressbar_marginTop">14dp</dimen>
+    <dimen name="labelTv_textSize">18sp</dimen>
+    <dimen name="logoLaird_marginBottom">50dp</dimen>
+    <dimen name="logoLaird_marginTop">50dp</dimen>
+    <dimen name="progressBarProgressTv_textSize">17sp</dimen>
+    <dimen name="progressBar_minHeight">17dp</dimen>
+    <dimen name="textDisclaimer_marginBottom">0dp</dimen>
+    <dimen name="textDisclaimer_marginHorizontal">5dp</dimen>
+    <dimen name="textDisclaimer_textSize">25sp</dimen>
+    <dimen name="valueTv_textSize">17sp</dimen>
+    <dimen name="versionNumberTv_textSize">14sp</dimen>
+</resources>

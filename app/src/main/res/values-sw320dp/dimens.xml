@@ -1,0 +1,26 @@
+<resources>
+    <!-- default screen margins -->
+    <dimen name="activity_horizontal_padding">10dp</dimen>
+    <dimen name="activity_vertical_padding">10dp</dimen>
+    <!-- disclaimer screen -->
+    <dimen name="textDisclaimer_marginBottom">0dp</dimen>
+    <dimen name="textDisclaimer_marginHorizontal">2dp</dimen>
+    <dimen name="textDisclaimer_textSize">15sp</dimen>
+    <!-- Laird logo -->
+    <dimen name="logoLaird_marginTop">30dp</dimen>
+    <dimen name="logoLaird_marginBottom">30dp</dimen>
+    <!-- margins -->
+    <dimen name="btn_marginTop">10dp</dimen>
+    <dimen name="btnFileStopUploading_marginTop">10dp</dimen>
+    <dimen name="containerProgressbar_marginTop">5dp</dimen>
+    <!-- text size -->
+    <dimen name="btnFileStopUloading_textSize">17sp</dimen>
+    <dimen name="btnConnect_textSize">23sp</dimen>
+    <dimen name="btn_textSize">17sp</dimen>
+    <dimen name="labelTv_textSize">17sp</dimen>
+    <dimen name="valueTv_textSize">16sp</dimen>
+    <dimen name="progressBarProgressTv_textSize">16sp</dimen>
+    <dimen name="versionNumberTv_textSize">12sp</dimen>
+    
+    <dimen name="progressBar_minHeight">14dp</dimen>
+</resources>
